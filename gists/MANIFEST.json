@@ -1,0 +1,65 @@
+{
+  "owner": "Krosebrook",
+  "existing_public_gists": [
+    {
+      "id": "a619586ccf335b5283df3059aae6d724",
+      "url": "https://gist.github.com/Krosebrook/a619586ccf335b5283df3059aae6d724",
+      "files": ["README.md", "section-parser.js", "section-parser.test.js"],
+      "status": "active_verified"
+    },
+    {
+      "id": "5d2c0ceb9aa8f1df149217e14030414c",
+      "url": "https://gist.github.com/Krosebrook/5d2c0ceb9aa8f1df149217e14030414c",
+      "files": ["LiveStatCard.jsx"],
+      "status": "needs_screen_reader_pass"
+    },
+    {
+      "id": "258b94c144024361edc319af297376e0",
+      "url": "https://gist.github.com/Krosebrook/258b94c144024361edc319af297376e0",
+      "files": ["LabeledInput.jsx"],
+      "status": "needs_screen_reader_pass"
+    },
+    {
+      "id": "f891b2bbee3dd16da8118c9618a73de9",
+      "url": "https://gist.github.com/Krosebrook/f891b2bbee3dd16da8118c9618a73de9",
+      "files": ["AccessibleCombobox.jsx"],
+      "status": "needs_screen_reader_pass"
+    },
+    {
+      "id": "2b90f93b8b0b7b5ef386df3dff7249b1",
+      "url": "https://gist.github.com/Krosebrook/2b90f93b8b0b7b5ef386df3dff7249b1",
+      "files": ["AccessibleToggle.jsx"],
+      "status": "needs_screen_reader_pass"
+    },
+    {
+      "id": "aca4a30a5f50783dbf37348aca552d95",
+      "url": "https://gist.github.com/Krosebrook/aca4a30a5f50783dbf37348aca552d95",
+      "files": ["DOCKER_COMPLETE_SETUP_GUIDE.md"],
+      "status": "active_reference"
+    },
+    {
+      "id": "fc1e5ebee4d9cc37077887bb8bd75406",
+      "url": "https://gist.github.com/Krosebrook/fc1e5ebee4d9cc37077887bb8bd75406",
+      "files": ["memory.md"],
+      "status": "superseded_by_agent_session_handoff",
+      "replacement_file": "gists/agent-context-template/AGENT_SESSION_HANDOFF.md"
+    }
+  ],
+  "publishable_gist_packs": [
+    {
+      "slug": "mcp-streamable-http-probe",
+      "description": "mcp-streamable-http-probe: Zero-dependency Node 22 JSON-RPC initialize + tools/list probe for Streamable HTTP MCP servers (2025-11-25) with self-test.",
+      "files": ["gists/mcp-streamable-http-probe/mcp_probe.mjs"]
+    },
+    {
+      "slug": "gha-sha-pin-audit",
+      "description": "gha-sha-pin-audit: Zero-dependency Python 3 scanner verifying 40-char commit SHA pinning and explicit permissions blocks in GitHub Actions workflows.",
+      "files": ["gists/gha-sha-pin-audit/pin_audit.py"]
+    },
+    {
+      "slug": "dns-ssrf-guard",
+      "description": "dns-ssrf-guard: Pre-flight DNS and IPv4/IPv6 CWE-918 SSRF classifier blocking RFC1918, loopback, link-local, and cloud metadata targets in Node 22+.",
+      "files": ["gists/dns-ssrf-guard/ssrf_guard.mjs"]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Krosebrook Profile & Snippet Hub",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:22",
+  "features": {
+    "ghcr.io/devcontainers/features/python:1": {
+      "version": "3.12"
+    },
+    "ghcr.io/devcontainers/features/github-cli:1": {}
+  },
+  "postCreateCommand": "node gists/mcp-streamable-http-probe/mcp_probe.mjs --self-test && python3 gists/gha-sha-pin-audit/pin_audit.py --self-test && node gists/dns-ssrf-guard/ssrf_guard.mjs --self-test",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "GitHub.vscode-pull-request-github",
+        "yzhang.markdown-all-in-one"
+      ]
+    }
+  }
+}
