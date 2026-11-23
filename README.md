@@ -1,4 +1,4 @@
-# Kyle Rosebrook
+# Kyle · Loxihart & Abstrekkt
 
 Builder in Chicago, IL working on Loxihart and [Abstrekkt](https://abstrekkt.com). AI tools, checked against real work.
 
@@ -40,5 +40,4 @@ The [`gists/`](gists/MANIFEST.json) directory versions self-tested single-file u
 ## Links
 
 - Studio: [abstrekkt.com](https://abstrekkt.com)
-- LinkedIn: [linkedin.com/in/kylerosebrook](https://linkedin.com/in/kylerosebrook)
 - Organization: [github.com/ChaosClubCo](https://github.com/ChaosClubCo)
